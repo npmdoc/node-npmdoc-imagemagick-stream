@@ -1,4 +1,7 @@
-# api documentation for  [imagemagick-stream (v4.1.1)](https://github.com/eivindfjeldstad/imagemagick-stream#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-imagemagick-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-imagemagick-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-imagemagick-stream.svg)](https://travis-ci.org/npmdoc/node-npmdoc-imagemagick-stream)
+# npmdoc-imagemagick-stream
+
+#### basic api documentation for  [imagemagick-stream (v4.1.1)](https://github.com/eivindfjeldstad/imagemagick-stream#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-imagemagick-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-imagemagick-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-imagemagick-stream.svg)](https://travis-ci.org/npmdoc/node-npmdoc-imagemagick-stream)
+
 #### Streaming Imagemagick api
 
 [![NPM](https://nodei.co/npm/imagemagick-stream.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/imagemagick-stream)
@@ -57,7 +60,8 @@
     "scripts": {
         "test": "mocha --reporter spec"
     },
-    "version": "4.1.1"
+    "version": "4.1.1",
+    "bin": {}
 }
 ```
 
